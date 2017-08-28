@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cars>
+    <car number="1" class="Business">
+        <type>Hatchback</type>
+        <manufacturer>Mercedes</manufacturer>
+        <model>S666</model>
+    </car>
+    <car number="2" class="Business">
+        <type>Hatchback</type>
+        <manufacturer>BMW</manufacturer>
+        <model>SLK-777</model>
+    </car>
+    <car number="3" class="Govno">
+        <type>Shit</type>
+        <manufacturer>Zaporozhec</manufacturer>
+        <model>Govno-3000</model>
+    </car>
+</cars>
